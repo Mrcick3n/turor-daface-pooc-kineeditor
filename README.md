@@ -1,0 +1,2 @@
+# turor-daface-pooc-kineeditor
+Assalamualaikum balik lagi ke chanell gw Mr cick3n :v  Oke kali ini gw bagiin turorial daface pooc kine editor:v  Bahan bahan 1.hp/pc 2.kouta kalau gak ada kouta jual hp belli kouta :v 3.Sc depes  Dork?  inurl:examples/uploadbutton.html Xploite: admin/restore.php  Jangan lupa follow git.hub gw:v  https://github.com/Mrcick3n  Mampir juga ke tools gc gw  http://blackattackerdarksec.ueuo.com
